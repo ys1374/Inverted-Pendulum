@@ -1,0 +1,5 @@
+the main file is wiring_map.fzz but we use coustom object in 
+creating the map if you have troble reading the map add the other
+files to fitzing also and try again you can download fitzing in this url:
+https://www.yasdl.com/214324/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-fritzing.html
+its about 68 MB.
